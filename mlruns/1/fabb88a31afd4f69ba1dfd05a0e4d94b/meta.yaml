@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/guillaumearp/Python_Projects/mlflow-cancellation-predictor/mlruns/1/fabb88a31afd4f69ba1dfd05a0e4d94b/artifacts
+end_time: 1653315806140
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fabb88a31afd4f69ba1dfd05a0e4d94b
+run_uuid: fabb88a31afd4f69ba1dfd05a0e4d94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653315797045
+status: 3
+tags: []
+user_id: unknown
